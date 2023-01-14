@@ -84,3 +84,5 @@ history
 5. при работе с документацией/readme проекта. Примеры:
 * docs: update readme with additional information
 docs: update description of run() method
+
+https://github.com/sandino/Markdown-Cheatsheete
