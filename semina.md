@@ -62,3 +62,25 @@ history
 ```
 # Бонус #
 ## Требования к именам коммитов ##
+**Примеры имен коммитов:**
+1. для начала проекта/таска
+* init: start youtube-task
+* init: start mentor-dashboard task
+2. для реализованной новой функциональности из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
+* feat: add basic page layout
+* feat: implement search box 
+* feat: implement request to youtube API
+* feat: implement swipe for horizontal list
+* feat: add additional navigation button
+3. для исправления ошибки в ранее реализованной функциональности. 
+* fix: implement correct loading data from youtube
+* fix: change layout for video items to fix bugs
+* fix: relayout header for firefox
+4. для рефакторинга - новой функциональности не добавлял / поведения не менял. Файлы в другие места положил, удалил, добавил. Изменил форматирование кода (white-space, formatting, missing semi-colons, etc). Улучшил алгоритм, без изменения функциональности. Примеры:
+* refactor: change structure of the project
+* refactor: rename vars for better readability
+* refactor: apply eslint
+* refactor: apply prettier
+5. при работе с документацией/readme проекта. Примеры:
+* docs: update readme with additional information
+docs: update description of run() method
