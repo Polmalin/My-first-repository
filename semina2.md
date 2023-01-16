@@ -86,3 +86,10 @@ history
 docs: update description of run() method
 
 https://github.com/sandino/Markdown-Cheatsheete
+
+# Инструкция по маркдаун #
+
+# Как лформлять ссылки #
+# Как оформлять цитаты  #
+# Как добалять картинки #
+# Как создавать заголовки#
